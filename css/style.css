@@ -97,7 +97,11 @@ a{
     width:150px;
   }
 
-}
+/*this is al the code i did to style the page*/
 .text-muted{
   color: Black;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color:black;
+    background-color: #337ab7;
 }
